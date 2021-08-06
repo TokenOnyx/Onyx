@@ -1,0 +1,11 @@
+{
+    "name": "ONYX",
+    "website": "https://tokenonyx.comt",
+    "description": "Pure Community Token",
+    "explorer": "https://bscscan.com/token/0xb19696030e762048d29fc919d0068db786eeed1d",
+    "type": "BEP20",
+    "symbol": "ONYX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xb19696030e762048d29fc919d0068db786eeed1d"
+}
